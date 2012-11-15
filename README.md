@@ -17,5 +17,5 @@ Version 1.0
 4. Undo is available if you dont like the results
 
 ##Credits
-# John Gruber - Markdown - http://daringfireball.net/projects/markdown/
-# The Python Markdown Project - http://packages.python.org/Markdown/
+John Gruber - Markdown - http://daringfireball.net/projects/markdown/
+The Python Markdown Project - http://packages.python.org/Markdown/
