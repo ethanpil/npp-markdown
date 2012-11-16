@@ -11,9 +11,9 @@ Version 1.0
 3. Restart NPP. It will now appear as a menu item under Plugins...Python Script...Scripts
 
 ## Usage
-1. Select the text to minify, or select nothing.
+1. Select the text to process, or select nothing.
 2. Go to the NPP menu, Plugins...Python Script...Scripts...Markdown and click!
-3. If selected text is detected, it mins and replaces the selected text, otherwise the entire contents of current document.
+3. If selected text is detected, will process and replace the selected text, otherwise the entire contents of current document.
 4. Undo is available if you dont like the results
 
 ##Credits
